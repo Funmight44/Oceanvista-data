@@ -17,6 +17,21 @@
     },
     {
       "id": 2,
+      "name": "Harbor King",
+      "category": "Tugboat",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5",
+      "price": "$12,000,000",
+      "capacity": "20 Crew",
+      "length": "45 m",
+      "speed": "14 knots",
+      "yearBuilt": 2023,
+      "flag": "Netherlands",
+      "description": "Powerful tugboat designed for towing and assisting large vessels in busy harbors.",
+      "status": "Available",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": 3,
       "name": "Pacific Explorer",
       "category": "Cargo Ship",
       "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13",
@@ -31,7 +46,22 @@
       "location": "Rotterdam"
     },
     {
-      "id": 3,
+      "id": 4,
+      "name": "Neptune Guardian",
+      "category": "Naval Vessel",
+      "image": "https://images.unsplash.com/photo-1528150177508-7cc0c36cda5c",
+      "price": "$650,000,000",
+      "capacity": "350 Crew",
+      "length": "155 m",
+      "speed": "32 knots",
+      "yearBuilt": 2021,
+      "flag": "United Kingdom",
+      "description": "Advanced naval patrol vessel equipped with surveillance systems and defense capabilities.",
+      "status": "Available",
+      "location": "Portsmouth, UK"
+    },
+    {
+      "id": 5,
       "name": "Pacific Trader",
       "category": "Cargo Ship",
       "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13",
@@ -46,7 +76,37 @@
       "location": "Monaco"
     },
     {
-      "id": 4,
+      "id": 6,
+      "name": "Arctic Star",
+      "category": "Research Vessel",
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "price": "$75,000,000",
+      "capacity": "120 Scientists & Crew",
+      "length": "112 m",
+      "speed": "18 knots",
+      "yearBuilt": 2022,
+      "flag": "Norway",
+      "description": "Specialized oceanographic research vessel designed for polar expeditions and scientific studies.",
+      "status": "Available",
+      "location": "Oslo, Norway"
+    },
+     {
+      "id": 7,
+      "name": "Sea Titan",
+      "category": "Bulk Carrier",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d",
+      "price": "$58,000,000",
+      "capacity": "180,000 DWT",
+      "length": "290 m",
+      "speed": "15 knots",
+      "yearBuilt": 2021,
+      "flag": "Marshall Islands",
+      "description": "Heavy-duty bulk carrier ideal for transporting coal, grain, and iron ore worldwide.",
+      "status": "Available",
+      "location": "Cape Town, South Africa"
+    },
+    {
+      "id": 8,
       "name": "Global Carrier",
       "category": "Cargo Ship",
       "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13",
@@ -60,8 +120,53 @@
       "status": "Available",
       "location": "Oslo, Norway"
     },
+      {
+      "id": 9,
+      "name": "Coral Queen",
+      "category": "Ferry",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05",
+      "price": "$18,000,000",
+      "capacity": "1,200 Passengers",
+      "length": "105 m",
+      "speed": "20 knots",
+      "yearBuilt": 2023,
+      "flag": "Australia",
+      "description": "Modern passenger ferry designed for coastal routes with spacious seating and safety features.",
+      "status": "Available",
+      "location": "Sydney, Australia"
+    },
     {
-      "id": 5,
+      "id": 10,
+      "name": "Solar Navigator",
+      "category": "Research Vessel",
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "price": "$80,000,000",
+      "capacity": "150 Scientists & Crew",
+      "length": "120 m",
+      "speed": "20 knots",
+      "yearBuilt": 2024,
+      "flag": "Germany",
+      "description": "Eco-friendly research vessel powered by solar energy, designed for sustainable oceanographic studies.",
+      "status": "Available",
+      "location": "Hamburg, Germany"
+    },
+     {
+      "id": 11,
+      "name": "Deep Explorer",
+      "category": "Submersible Vessel",
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "price": "$22,000,000",
+      "capacity": "8 Crew",
+      "length": "35 m",
+      "speed": "12 knots",
+      "yearBuilt": 2022,
+      "flag": "Canada",
+      "description": "Specialized deep-sea exploration vessel capable of underwater scientific missions.",
+      "status": "Available",
+      "location": "Vancouver, Canada"
+    },
+    {
+      "id": 12,
       "name": "Sea Majesty",
       "category": "Cruise Ship",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -76,7 +181,22 @@
       "location": "Reykjavik, Iceland"
     },
     {
-      "id": 6,
+      "id": 13,
+      "name": "Harbor King",
+      "category": "Tugboat",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5",
+      "price": "$12,000,000",
+      "capacity": "20 Crew",
+      "length": "45 m",
+      "speed": "14 knots",
+      "yearBuilt": 2023,
+      "flag": "Netherlands",
+      "description": "Powerful tugboat designed for towing and assisting large vessels in busy harbors.",
+      "status": "Available",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": 14,
       "name": "Ocean Paradise",
       "category": "Cruise Ship",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -91,7 +211,22 @@
       "location": "Singapore"
     },
     {
-      "id": 7,
+      "id": 15,
+      "name": "Emerald Wave",
+      "category": "Fishing Vessel",
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+      "price": "$9,500,000",
+      "capacity": "40 Crew",
+      "length": "58 m",
+      "speed": "16 knots",
+      "yearBuilt": 2021,
+      "flag": "Iceland",
+      "description": "Commercial fishing vessel equipped with advanced fish-finding and storage systems.",
+      "status": "Available",
+      "location": "Reykjavik, Iceland"
+    },
+    {
+      "id": 16,
       "name": "Royal Ocean",
       "category": "Cruise Ship",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -106,7 +241,7 @@
       "location": "Miami, USA"
     },
     {
-      "id": 8,
+      "id": 17,
       "name": "Coral Empress",
       "category": "Cruise Ship",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -121,7 +256,7 @@
       "location": "Rotterdam"
     },
     {
-      "id": 9,
+      "id": 18,
       "name": "Atlantic Pioneer",
       "category": "Oil Tanker",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -136,7 +271,7 @@
       "location": "Monaco"
     },
     {
-      "id": 10,
+      "id": 19,
       "name": "Titan Energy",
       "category": "Oil Tanker",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -151,7 +286,22 @@
       "location": "Oslo, Norway"
     },
     {
-      "id": 11,
+      "id": 20,
+      "name": "Poseidon Express",
+      "category": "Ro-Ro Ship",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05",
+      "price": "$68,000,000",
+      "capacity": "6,000 Vehicles",
+      "length": "210 m",
+      "speed": "21 knots",
+      "yearBuilt": 2022,
+      "flag": "Japan",
+      "description": "Roll-on/Roll-off vessel designed for efficient transport of vehicles and heavy equipment.",
+      "status": "Available",
+      "location": "Yokohama, Japan"
+    },
+    {
+      "id": 21,
       "name": "Petro Voyager",
       "category": "Oil Tanker",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -166,7 +316,7 @@
       "location": "Reykjavik, Iceland"
     },
     {
-      "id": 12,
+      "id": 22,
       "name": "Ocean Crude",
       "category": "Oil Tanker",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -181,7 +331,7 @@
       "location": "Singapore"
     },
     {
-      "id": 13,
+      "id": 23,
       "name": "Blue Horizon",
       "category": "Yacht",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -196,7 +346,7 @@
       "location": "Miami, USA"
     },
     {
-      "id": 14,
+      "id": 24,
       "name": "Azure Dream",
       "category": "Yacht",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -211,7 +361,7 @@
       "location": "Rotterdam"
     },
     {
-      "id": 15,
+      "id": 25,
       "name": "Golden Horizon",
       "category": "Yacht",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -226,7 +376,7 @@
       "location": "Monaco"
     },
     {
-      "id": 16,
+      "id": 26,
       "name": "Crystal Seas",
       "category": "Yacht",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -241,7 +391,7 @@
       "location": "Oslo, Norway"
     },
     {
-      "id": 17,
+      "id": 27,
       "name": "Arctic Star",
       "category": "Research Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -256,7 +406,7 @@
       "location": "Reykjavik, Iceland"
     },
     {
-      "id": 18,
+      "id": 28,
       "name": "Deep Explorer",
       "category": "Research Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -271,7 +421,7 @@
       "location": "Singapore"
     },
     {
-      "id": 19,
+      "id": 29,
       "name": "Polar Quest",
       "category": "Research Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -286,7 +436,7 @@
       "location": "Miami, USA"
     },
     {
-      "id": 20,
+      "id": 30,
       "name": "Ocean Discovery",
       "category": "Research Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -301,7 +451,7 @@
       "location": "Rotterdam"
     },
     {
-      "id": 21,
+      "id": 31,
       "name": "Emerald Wave",
       "category": "Fishing Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -316,7 +466,7 @@
       "location": "Monaco"
     },
     {
-      "id": 22,
+      "id": 32,
       "name": "Northern Catch",
       "category": "Fishing Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -331,7 +481,7 @@
       "location": "Oslo, Norway"
     },
     {
-      "id": 23,
+      "id": 33,
       "name": "Sea Harvest",
       "category": "Fishing Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
@@ -346,7 +496,7 @@
       "location": "Reykjavik, Iceland"
     },
     {
-      "id": 24,
+      "id": 44,
       "name": "Blue Catcher",
       "category": "Fishing Vessel",
       "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a",
